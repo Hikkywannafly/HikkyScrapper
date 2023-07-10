@@ -6,6 +6,7 @@
     "node": ">= 16.13 <17"
   },
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4",
     "@types/apicache": "^1.6.1",
     "@types/cors": "^2.8.12",
     "@types/cron": "^1.7.3",
